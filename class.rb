@@ -1,5 +1,7 @@
-hairetsu = [1,2,3]
-puts hairetsu.class
+array = [1,2,3]
+puts array.class
+puts array.join("*")
 
-moji = "Hello"
-puts moji.class
+string = "Hello"
+puts string.class
+puts string.join("*")
